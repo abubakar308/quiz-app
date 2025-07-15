@@ -1,0 +1,11 @@
+body{
+    font-family: Arial, sens-serif;
+    text-align: center;
+    background-color: white;
+}
+
+#nextBtn{
+    background-color: greenyellow;
+    margin: 4px;
+    border-radius: 10px;
+}
